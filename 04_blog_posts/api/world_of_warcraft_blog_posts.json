@@ -1,0 +1,107 @@
+[
+    {
+        "title": "The Evolution of Class Balance in WoW",
+        "body": "Exploring the history and future of class balance in World of Warcraft, examining the changes over various expansions.",
+        "thumbnail": "thumbnail_class_balance.png",
+        "tags": [
+            "Class Balance",
+            "History",
+            "Expansions"
+        ],
+        "date": "2023-05-29",
+        "post_id": 1,
+        "special": false
+    },
+    {
+        "title": "Top 5 Raid Dungeons in WoW History",
+        "body": "A nostalgic journey through the most memorable raid dungeons in the World of Warcraft universe.",
+        "thumbnail": "thumbnail_raid_dungeons.png",
+        "tags": [
+            "Raids",
+            "Dungeons",
+            "Nostalgia"
+        ],
+        "date": "2021-11-09",
+        "post_id": 2
+        ,
+        "special": false
+    },
+    {
+        "title": "The Art of Crafting in WoW",
+        "body": "An in-depth look at the crafting system in WoW, its evolution, and its impact on the in-game economy.",
+        "thumbnail": "thumbnail_crafting.png",
+        "tags": [
+            "Crafting",
+            "Economy",
+            "Gameplay"
+        ],
+        "date": "2021-06-02",
+        "post_id": 3,
+        "special": true
+    },
+    {
+        "title": "WoW Lore Deep Dive: The Lich King",
+        "body": "Exploring the complex lore behind one of WoW's most iconic characters, the Lich King, and his impact on the game's storyline.",
+        "thumbnail": "thumbnail_lich_king.png",
+        "tags": [
+            "Lore",
+            "Lich King",
+            "Storyline"
+        ],
+        "date": "2023-12-19",
+        "post_id": 4,
+        "special": false
+    },
+    {
+        "title": "The Rise of eSports in World of Warcraft",
+        "body": "Analyzing how World of Warcraft has become a key player in the eSports arena, highlighting major tournaments and players.",
+        "thumbnail": "thumbnail_esports.png",
+        "tags": [
+            "eSports",
+            "Tournaments",
+            "Players"
+        ],
+        "date": "2023-12-14",
+        "post_id": 5,
+        "special": false
+    },
+    {
+        "title": "Exploring Azeroth: The Best In-Game Locations",
+        "body": "A travel guide to the most breathtaking locations in Azeroth, from the serene Eversong Woods to the perilous Icecrown.",
+        "thumbnail": "thumbnail_azeroth.png",
+        "tags": [
+            "Locations",
+            "Azeroth",
+            "Travel"
+        ],
+        "date": "2022-03-02",
+        "post_id": 6,
+        "special": false
+    },
+    {
+        "title": "The Social Aspect of WoW: Guilds and Communities",
+        "body": "An analysis of the social structures within WoW, focusing on guilds, communities, and how they shape the player experience.",
+        "thumbnail": "thumbnail_social.png",
+        "tags": [
+            "Social",
+            "Guilds",
+            "Communities"
+        ],
+        "date": "2021-08-28",
+        "post_id": 7,
+        "special": false
+    },
+    {
+        "title": "WoW's Economy: An In-Game Market Analysis",
+        "body": "A detailed look at the in-game economy of World of Warcraft, exploring how players earn and spend in Azeroth's markets.",
+        "thumbnail": "thumbnail_economy.png",
+        "tags": [
+            "Economy",
+            "Market",
+            "In-Game"
+        ],
+        "date": "2022-09-30",
+        "post_id": 8,
+        "special": false
+    }
+]

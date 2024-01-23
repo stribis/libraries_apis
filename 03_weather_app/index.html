@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="light" lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather App 323</title>
+  <!-- <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"> -->
+  <!-- <link rel="manifest" href="images/favicon/site.webmanifest"> -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.12/css/weather-icons.min.css">
+</head>
+<body>
+  <div class="container">
+    <div class="toggle-container">
+      <button class="theme-btn light" onclick="setTheme('light')" title="Light mode">
+        <i class="wi-day-sunny wi"></i>
+      </button>
+      <button class="theme-btn dark" onclick="setTheme('dark')" title="Dark mode">
+        <i class="wi-moon-waxing-crescent-4 wi"></i>
+      </button>
+    </div>
+    <form id="query-form" action="/" method="post">
+      <input type="text" name="city" id="city" placeholder="Enter a city" required>
+
+      <input type="submit" value="Submit">
+    </form>
+
+
+
+  </div>
+  <script src="code.js"></script>
+</body>
+</html>
