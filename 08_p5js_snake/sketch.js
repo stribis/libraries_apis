@@ -1,6 +1,7 @@
 const cell = 20
 let s
 let food
+let scoreText = 'Score: 0'
 
 
 function setup () {
@@ -27,15 +28,22 @@ function draw () {
     line(i, 0, i, height)
   }
 
+  s.death()
   s.update()
   s.show()
 
   fill(255,0,0)
   rect(food.x, food.y, cell, cell)
+
+  // Score Text: 
+  fill('yellow')
+  textSize(48)
+  text(scoreText, 10, 40)
+  
+  
 }
 
 function keyPressed () {
-  console.log(keyCode)
   // Up : UP_ARROW
   // RIGHT: RIGHT_ARROW
   // DOWN: DOWN_ARROW
