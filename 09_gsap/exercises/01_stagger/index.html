@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Stagger</title>
+  <style>
+  /* === Small CSS Reset === */
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  *, *::after, *::before{
+    box-sizing: border-box;
+  }
+  body{
+    background: #222;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: url(sae_logo.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+
+  .box{
+    background: white;
+    border: solid black 1px;
+  }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/TextPlugin.min.js"></script>
+  <script src="animation.js" defer></script>
+</head>
+<body>
+  <div class="container">
+
+  </div>
+  
+</body>
+</html>
